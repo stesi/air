@@ -1,0 +1,4 @@
+[submodule "airsrl/l10n-italy"]
+	path = airsrl/l10n-italy
+	url = git@github.com:airsrl/l10n-italy.git
+	branch = 14.0
